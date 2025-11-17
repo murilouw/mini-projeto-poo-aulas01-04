@@ -1,4 +1,5 @@
 public class EmpresaApp {
+    //Arquivo principal da aplicação
     public static void main(String[] args) {
         System.out.println("Inicializando Sistemas de Gerenciamento de Funcionários...");
 
