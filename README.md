@@ -97,3 +97,7 @@ Sistema finalizado.
 ## 📜 Licença
 
 Este projeto foi desenvolvido especificamente para fins **educacionais** e **didáticos**.
+
+## Diagrama de Classe
+
+![Diagrama de Classes do Projeto](diagrama-de-classes.png)
